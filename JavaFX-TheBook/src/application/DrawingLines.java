@@ -16,7 +16,7 @@ import javafx.stage.Stage;
  * @author HAC
  */
 
-public class Main extends Application {
+public class DrawingLines extends Application {
 	@Override
 	public void start(Stage primaryStage) {
 		primaryStage.setTitle("Drawing Lines");
