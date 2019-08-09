@@ -19,7 +19,7 @@ public class DrawingShapes extends Application {
 
 	@Override
 	public void start(Stage primaryStage) throws Exception {
-		primaryStage.setTitle("Drawing Shaoes");
+		primaryStage.setTitle("Drawing Shapes");
 		Group root = new Group();
 		Scene scene = new Scene(root,305,550,Color.WHITE);
 		
