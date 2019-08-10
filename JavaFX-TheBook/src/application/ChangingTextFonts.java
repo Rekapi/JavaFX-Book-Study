@@ -22,6 +22,7 @@ public class ChangingTextFonts extends Application{
 		Group root = new Group();
 		Scene scene = new Scene(root, 580,250,Color.WHITE);
 		
+		// the following lines list the available fonts on the current system using lambda expression
 		System.out.println("Font Families : ");
 		Font.getFamilies()
 		.stream()
