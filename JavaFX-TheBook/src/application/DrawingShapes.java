@@ -15,8 +15,15 @@ import javafx.scene.shape.QuadCurveTo;
 import javafx.scene.shape.Shape;
 import javafx.stage.Stage;
 
-public class DrawingShapes extends Application {
 
+/**
+ * Listing 3-2 
+ * Drawing shapes
+ * @author HAC
+ *
+ */
+public class DrawingShapes extends Application {
+	
 	@Override
 	public void start(Stage primaryStage) throws Exception {
 		primaryStage.setTitle("Drawing Shapes");
