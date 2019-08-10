@@ -52,6 +52,7 @@ public class DrawingShapes extends Application {
 		moveTo.setX(50);
 		moveTo.setY(150);
 		
+		
 		// curve ice cream (dome)
 		QuadCurveTo quadCurveTo = new QuadCurveTo();
 		quadCurveTo.setX(150);
